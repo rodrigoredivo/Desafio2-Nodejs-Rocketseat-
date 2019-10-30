@@ -24,7 +24,7 @@ Desafio 2 do segundo modulo de Nodejs pelo bootcamp - Rocketseat , criando API R
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Sobre o desafio
