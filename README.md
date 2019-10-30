@@ -37,8 +37,8 @@ Abaixo estão descritas as funcionalidades que você deve adicionar em sua aplic
 
 Permita que um usuário se autentique em sua aplicação utilizando e-mail e senha.
 
-A autenticação deve ser feita utilizando JWT.
-Realize a validação dos dados de entrada;
+- A autenticação deve ser feita utilizando JWT.
+- Realize a validação dos dados de entrada;
 
 #### 2. Cadastro e atualização de usuários e alunos.
 
